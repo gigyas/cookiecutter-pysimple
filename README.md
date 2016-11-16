@@ -1,4 +1,4 @@
-pycutter
+pysimple
 ========
 
 Template for simple but full featured python projects
