@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 #### Added
 - .gitignore file
 
+#### Fixed
+- tox.ini wouldn't install all dependencies in all envs
+
 ### [0.1.1][2016-12-01]
 
 #### Fixed
